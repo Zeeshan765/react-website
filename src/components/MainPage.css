@@ -1,0 +1,65 @@
+
+.bottom-container{
+  display: flex; 
+    height: 250vh;
+    background-color: rgb(190, 234, 240);
+    
+}
+.left-container{
+    width: 70%;
+    
+    /* border: 5px solid black; */
+}
+.title-container{
+    
+    height:170px;
+    margin-left: 12rem;
+
+}
+.main-title{
+    color: #2d1558;
+}
+.sub-title{
+    color: grey;
+    font-size: 14px;
+    margin-top: -12px;
+}
+.form-holder{
+    margin-top: -5rem;
+}
+.right-container{
+    width: 12%;
+    /* border: 1px solid pink; */
+    margin-top: 10rem;
+    background-color: rgb(190, 234, 240);
+
+
+}
+.right-container Box{
+    background-color: black;
+}
+.stepBox{
+    background-color: yellow;
+}
+.btn-groups{
+    margin-top: 2rem;
+    float: right;
+    margin-right: 13rem;
+}
+.btn-primary{
+    color: white;
+    background-color: rgb(54, 194, 54);
+    font-size: 20px;
+    font-weight: bold;
+    padding: 8px;
+    margin-right: 14px;
+}
+
+.btn-secondary{
+    color: white;
+    background-color: rgb(38, 0, 128);
+    font-size: 20px;
+    width:100px;
+    font-weight: bold;
+    padding: 8px;
+    }

@@ -1,0 +1,8 @@
+.topbar{
+    background-color: #2d1558;
+    border-bottom: 1px solid #e5e5e5;
+    height: 70px;
+    line-height: 40px;
+    position: relative;
+    z-index: 1;
+}
